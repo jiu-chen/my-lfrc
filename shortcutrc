@@ -1,0 +1,5 @@
+map gc cd ~/.config
+map gd cd ~/Documents
+map gD cd ~/Downloads
+map gt cd ~/.tmp
+map gT cd ~/.local/share/Trash/files
