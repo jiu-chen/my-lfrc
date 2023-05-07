@@ -4,9 +4,7 @@
 
 refer: https://github.com/gokcehan/lf/blob/master/etc/lfcd.sh
 
-> zshrc
-> add code into .zshrc
-
+> .zshrc
 ```bash
 lfcd () {
     tmp="$(mktemp)"
@@ -26,7 +24,7 @@ lfcd () {
 
 ## keybind
 
-> zshrc
+> .zshrc
 
 ```bash
 bindkey -s '^o' 'lfcd\n'
